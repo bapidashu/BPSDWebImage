@@ -1,0 +1,6 @@
+framework module BPSDWebImage {
+  umbrella header "BPSDWebImage.h"
+
+  export *
+  module * { export * }
+}
